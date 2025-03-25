@@ -3,20 +3,30 @@ This Repo is for testing purposes only
 
 ## How to install
 Install git
-```pkg install git```
+```sh
+pkg install git
+```
 
 Clone the repository
-```git clone https://github.com/Tarkkailija/Termux-Setup-Script.git```
+```sh
+git clone https://github.com/Tarkkailija/Termux-Setup-Script.git
+```
 
 Change directory to the cloned repository
-```cd Termux-Setup-Script```
+```sh
+cd Termux-Setup-Script
+```
 
 Change access permission
-```chmod +x Termux-Install.sh```
+```sh
+chmod +x Termux-Install.sh
+```
 
 
 Execute the program
-```./Termux-Install.sh```
+```shs
+./Termux-Install.sh
+```
 
 ---
 
