@@ -1,5 +1,6 @@
 # Termux-Setup-Script
-This Repo is for testing purposes only
+This Repo is for testing purposes only 
+As of 2025, This repo is unmaintained
 
 ## How to install
 Install git
